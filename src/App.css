@@ -1,0 +1,26 @@
+.form {
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+/* Dark theme styles */
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.counter-container {
+  text-align: center;
+  padding: 50px;
+}
